@@ -1,3 +1,6 @@
 ins-1;
 ins-2;
 ins-3;
+
+//The new idea!!!
+ins_new_idea;
