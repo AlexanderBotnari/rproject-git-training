@@ -1,3 +1,6 @@
 ins-1;
 ins-2;
 ins-3;
+
+//Fix error
+ins_resolv;
